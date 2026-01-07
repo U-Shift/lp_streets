@@ -1,3 +1,3 @@
 # Street_functions
 
-[Centerlines code](centerlines.ipynb)
+All of the work is being done in [lp_streets.ipynb](lp_streets.ipynb).
