@@ -1,3 +1,3 @@
 # Street_functions
 
-All of the work is being done in [lp_streets.ipynb](lp_streets.ipynb).
+Currently, all of the work is being done in [lp_streets.ipynb](lp_streets.ipynb), in the context of the MSc dissertation in Transportation Systems at Instituto Superior Técnico, Universidade de Lisboa. The repository is meant to be updated with .py files and proper documentation in the future, in order for the methodology to be easily applicable, by only needing to call functions from the library.
