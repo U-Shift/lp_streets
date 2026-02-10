@@ -8,6 +8,7 @@ In contrast, the **place** function describes the street as a destination in its
 
 The authors argue that effective street design requires balancing these two roles, since prioritizing movement alone can undermine the street’s social and economic vitality, while emphasizing place without considering movement can reduce network efficiency. However, the assessment of these functions has traditionally been mostly microscopic (at the street-level) or qualitative. This framework attempts to solve this gap, by providing a methodology to calculate the **link** and **place** functions of streets in a systematic way, at the macroscopic level of the street network, and in a quantitative way, by using [OpenStreetMap](https://www.openstreetmap.org) data and open-source Python libraries.
 
+![interactive_report](readme_images/interactive_report.png)
 
 # Development information
 
@@ -20,7 +21,7 @@ This is the main file, where all of the work is being done. It's a Jupyter Noteb
 
 ### [legend_colormaps](legend_colormaps)
 
-This folder contains the legend colormaps used for the visualizations in the interactive report at the end of the notebook. These colormaps are used to represent the different classifications of streets based on their link and place functions, in a way that is visually intuitive and easy to interpret. You should not need to modify these colormaps, unless you want to change the visual representation of the classifications in the report. If you do want to modify them, be aware that you'll need to modify the code in the notebook accordingly, in order for the visualizations to work properly. The interactive report is meant to be a final output of the methodology, where users can explore the classifications of streets in a visual way and corresponds roughly to the following image:
+This folder contains the legend colormaps used for the visualizations in the interactive report at the end of the notebook. These colormaps are used to represent the different classifications of streets based on their link and place functions, in a way that is visually intuitive and easy to interpret. You should not need to modify these colormaps, unless you want to change the visual representation of the classifications in the report. If you do want to modify them, be aware that you'll need to modify the code in the notebook accordingly, in order for the visualizations to work properly.
 
 ![interactive_report](readme_images/interactive_report.png)
 
