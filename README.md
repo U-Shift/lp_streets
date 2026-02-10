@@ -1,5 +1,7 @@
 # Street_functions
 
+## Introduction
+
 In Jones et al. ([2008](https://www.sciencedirect.com/science/article/pii/S0386111214601965)), streets are understood to serve two fundamental and often competing roles: a **“link”** and a **“place”** function. 
 
 The **link** function refers to a street’s role in facilitating movement through the network, allowing vehicles, cyclists, pedestrians, and public transport to travel efficiently from one location to another. Streets with a strong link function are typically designed to prioritize capacity, speed, and continuity of traffic flow. In sum, a good **link** street reduces the time users spend in it.
