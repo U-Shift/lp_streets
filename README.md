@@ -15,7 +15,7 @@ Currently, all of the work is being done in [lp_streets.ipynb](lp_streets.ipynb)
 
 ### lp_streets.ipynb
 
-This is the main file, where all of the work is being done. It's a Jupyter Notebook, which allows for easy iteration and visualization of the results and outputs. The notebook is structured in a way that allows for a step-by-step execution of the methodology, from data collection and preprocessing, to the calculation of the link and place functions and street classifications, and finally to the visualization of the results in each of these steps.
+This is the main file, where all of the work is being done. It's a Jupyter Notebook, which allows for easy iteration and visualization of the results and outputs. The notebook is structured in a way that allows for a step-by-step execution of the methodology, from data collection and preprocessing, to the calculation of the link and place functions and street classifications, and finally to the visualization of the results in each of these steps. If you intend to use the methodology or explore the code, I recommend starting with this file, since it contains all of the code and explanations for each step of the process. The other files in the repository are meant to either support the work in this notebook (such as the ``legend_colormaps`` folder), or to provide a structure for future developments (such as the ``cities_user_inputs.csv`` file).
 
 
 ### legend_colormaps
