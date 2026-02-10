@@ -13,17 +13,17 @@ The authors argue that effective street design requires balancing these two role
 
 Currently, all of the work is being done in [lp_streets.ipynb](lp_streets.ipynb), in the context of the MSc dissertation, since it's easier for iteration purposes. The repository is meant to be updated with ``.py`` files and proper documentation in the future, in order for the methodology to be easily applicable, by only needing to call functions from the library. The following subsections provide a brief overview of the files in the repository, and their purpose:
 
-## lp_streets.ipynb
+### lp_streets.ipynb
 
 This is the main file, where all of the work is being done. It's a Jupyter Notebook, which allows for easy iteration and visualization of the results and outputs. The notebook is structured in a way that allows for a step-by-step execution of the methodology, from data collection and preprocessing, to the calculation of the link and place functions and street classifications, and finally to the visualization of the results in each of these steps.
 
 
-## legend_colormaps
+### legend_colormaps
 
 This folder contains the legend colormaps used for the visualizations in the interactive report at the end of the notebook. These colormaps are used to represent the different classifications of streets based on their link and place functions, in a way that is visually intuitive and easy to interpret. You should not need to modify these colormaps, unless you want to change the visual representation of the classifications in the report. If you do want to modify them, be aware that you'll need to modify the code in the notebook accordingly, in order for the visualizations to work properly.
 
 
-## cities_user_inputs.csv
+### cities_user_inputs.csv
 
 This file corresponds to the structure that may be used in the future for user inputs, in order to apply the methodology to different cities, simultaneously. The current values correspond to examples that may be considered to run the methodology and they may need to be corrected. It's also important to consider that some of these examples correspond to large metropolitan areas in which the calculation of the "edge betweenness centrality" (one of the indicators) is computationally expensive (consider using a ``k`` parameter in that step when running [lp_streets.ipynb](lp_streets.ipynb)). It contains the following columns:
 - **city**: the name of the city for which the methodology will be applied (just for reference, not the name that will be used to retrieve the data from OpenStreetMap).
