@@ -1,4 +1,4 @@
-city,study_area (Nominatim), local_CRS, speed_limits_motorway, speed_limits_motorway_link, speed_limits_trunk, speed_limits_trunk_link, speed_limits_primary, speed_limits_primary_link, speed_limits_secondary, speed_limits_secondary_link, speed_limits_tertiary, speed_limits_tertiary_link, speed_limits_residential, speed_limits_unclassified, speed_limits_living_street, speed_limits_pedestrian
+city,study_area_Nominatim, local_CRS, speed_limits_motorway, speed_limits_motorway_link, speed_limits_trunk, speed_limits_trunk_link, speed_limits_primary, speed_limits_primary_link, speed_limits_secondary, speed_limits_secondary_link, speed_limits_tertiary, speed_limits_tertiary_link, speed_limits_residential, speed_limits_unclassified, speed_limits_living_street, speed_limits_pedestrian
 Lisboa,"Município de Lisboa, Portugal",epsg:3763,120,60,100,60,50,50,50,50,50,50,50,90,20,0
 Porto,"Município do Porto, Portugal",epsg:3763,120,60,100,60,50,50,50,50,50,50,50,90,20,0
 Paris,"Paris, France",epsg:2154,130,110,110,110,50,50,50,50,50,50,50,50,20,0
@@ -41,6 +41,3 @@ Los Angeles,"Los Angeles, CA, USA",epsg:2229,105,65,90,65,90,65,90,65,90,65,40,4
 Chicago,"Chicago, IL, USA",epsg:3435,105,65,90,65,90,65,90,65,90,65,40,40,25,0
 Houston,"Houston, TX, USA",epsg:2278,105,65,90,65,90,65,90,65,90,65,40,40,25,0
 Phoenix,"Phoenix, AZ, USA",epsg:2223,105,65,90,65,90,65,90,65,90,65,40,40,25,0
-
-
-# THESE NEED TO BE CHECKED AND THE EDGE BETWEENNESS CENTRALITY CALCULATION CODE UPDATED TO NOT ACCOUNT FOR THE WHOLE GRAPH BUT ONLY FOR A SAMPLE OF NODES (THERE ARE SOME VERY BIG CITIES WHERE THE CALCULATION TAKES A LOT OF TIME)
