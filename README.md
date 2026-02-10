@@ -23,8 +23,6 @@ This is the main file, where all of the work is being done. It's a Jupyter Noteb
 
 This folder contains the legend colormaps used for the visualizations in the interactive report at the end of the notebook. These colormaps are used to represent the different classifications of streets based on their link and place functions, in a way that is visually intuitive and easy to interpret. You should not need to modify these colormaps, unless you want to change the visual representation of the classifications in the report. If you do want to modify them, be aware that you'll need to modify the code in the notebook accordingly, in order for the visualizations to work properly.
 
-![interactive_report](readme_images/interactive_report.png)
-
 
 ### [cities_user_inputs.csv](cities_user_inputs.csv)
 
