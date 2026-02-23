@@ -3,3 +3,4 @@ cache/*
 *.gpkg
 .vscode/*
 dissertation_maps_etc.ipynb
+*.tif
