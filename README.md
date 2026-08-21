@@ -35,6 +35,8 @@ This file corresponds to the structure that may be used in the future for user i
 
 # Acknowledgement
 
-This work is being developed at [U-Shift](https://ushift.tecnico.ulisboa.pt/) urban mobility research group, part of the [CERIS](https://ceris.pt/) research center, at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/), [University of Lisbon](https://www.ulisboa.pt/en), Portugal. Currently, it is being developed in the context of the MSc dissertation in Transportation Systems, by [Miguel Relvas Pires](https://github.com/miguelrelvaspires).
+This work was developed at [U-Shift](https://ushift.tecnico.ulisboa.pt/) urban mobility research group, part of the [CERIS](https://ceris.pt/) research center, at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/), [University of Lisbon](https://www.ulisboa.pt/en), Portugal. 
+
+Relvas Pires, M., Valença, G. Link vs Place: Classifying street functions using OpenStreetMap. _Paper submitted to Transportation Research Part D._
 
 ![logo_acknowledgement](readme_images/logo_acknowledgement.png)
